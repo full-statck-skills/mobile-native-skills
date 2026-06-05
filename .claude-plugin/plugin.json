@@ -1,0 +1,16 @@
+{
+  "name": "mobile-native-skills",
+  "version": "1.0.0",
+  "description": "Mobile native development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/mobile-native-skills",
+  "repository": "https://github.com/full-statck-skills/mobile-native-skills",
+  "source": "./",
+  "skills": [
+    "./skills/android-kotlin",
+    "./skills/ios-swift"
+  ]
+}
